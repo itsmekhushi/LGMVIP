@@ -1,0 +1,78 @@
+body {
+    background-color: salmon;
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(43, 22, 180);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px 40px;
+    font-size: 20px;
+    padding: 0px;
+}
+
+.container {
+    background-color: aliceblue;
+    padding: 10px 10px 10px 10px;
+    border-radius: 25px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+textarea {
+    width: 100%;
+    padding: 5px;
+    background-color: oldlace;
+}
+
+#entry {
+    width: 30%;
+    height: 15%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 50px auto;
+    background-color: rgb(247, 244, 244);
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+th {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+td {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: azure;
+    color: rgb(255, 0, 76);
+}
+
+button {
+    width: 10%;
+    background-color: oldlace;
+    height: 5%;
+    font-size: 20px;
+    margin-top: 20px;
+    font-weight: 550;
+    color: darkorchid;
+    border-radius: 10px;
+}
